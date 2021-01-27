@@ -1,20 +1,20 @@
 # My Portfolio
 
-[Check out My Portfolio Here](https://celianoriega.github.io/) 
+[Check out My Portfolio Here]() 
 
 Technologies used:
 
-    HTML, Bootstrap CSS Framework
+   react.js
 
 This website shows my projects that I have worked on and includes an About Me and Contact Me page.
 
 Screenshots:
 
-![image](https://user-images.githubusercontent.com/71470687/99182012-0352f000-26e7-11eb-90d5-96d1efd0abf2.png)
+![image]()
 
-![image](https://user-images.githubusercontent.com/71470687/99181941-858ee480-26e6-11eb-9c0d-0276f021ab6e.png)
+![image]()
 
-![image](https://user-images.githubusercontent.com/71470687/99181953-98091e00-26e6-11eb-9f68-186f683413ca.png)
+![image]()
 
 MIT License
 
