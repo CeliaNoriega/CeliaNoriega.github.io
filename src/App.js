@@ -1,20 +1,37 @@
-import Blog from './components/Blog'
+
 import { makeStyles } from '@material-ui/core/styles'
+import CssBaseline from '@material-ui/core/CssBaseline'
+import Container from '@material-ui/core/Container'
+import Header from './components/Header'
+import About from './components/About'
+import Projects from './components/Projects'
+import Footer from './components/Footer'
 
 const useStyles = makeStyles({
   root: {
-    backgroundColor: '#263238',
+    backgroundColor: '#111618',
     color: '#b2dfdb'
   },
 });
+
+const sections = [
+  { title: 'About', url: '#about' },
+  { title: 'Portfolio', url: '#portfolio' },
+  { title: 'Contact', url: '#contact' }
+]
 
 const App = () => {
   const classes = useStyles()
   return (
     <div  className={classes.root}>
-      <Blog></Blog>
+      <CssBaseline />
+      <Container maxWidth="lg">
+        <Header sections={sections} />
+          <About />
+          <Projects />
+      </Container>
+      <Footer />
     </div>
   )
 }
-
 export default App

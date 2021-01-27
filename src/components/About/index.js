@@ -15,14 +15,13 @@ const useStyles = makeStyles((theme) => ({
     margin: '5%',
     // color: '#b2dfdb',
     backgroundColor: '#3b464b',
-    color: '#ffffff',
+    color: '#B2DFDB',
   },
   mainFeaturedPostContent: {
     position: 'relative',
     padding: theme.spacing(3),
     [theme.breakpoints.up('md')]: {
       padding: theme.spacing(6),
-      paddingRight: 0,
     }
   }
 }))
