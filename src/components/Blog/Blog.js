@@ -17,7 +17,7 @@ export default function Blog() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Celia Noriega" sections={sections} />
+        <Header title="Celia Noriega" sections={sections}/>
         <main>
           <MainFeatured/>
         </main>
