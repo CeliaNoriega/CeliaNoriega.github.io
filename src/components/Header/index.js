@@ -10,8 +10,8 @@ const useStyles = makeStyles((theme) => ({
     borderBottom: `1px solid ${theme.palette.divider}`,
     justifyContent: 'space-between',
     overflowX: 'auto',
-    backgroundColor: '#006064',
-    color: '#b2dfdb'
+    color: '#000000',
+    backgroundColor: '#D8D8F6',
   },
   toolbarLink: {
     padding: theme.spacing(1),

@@ -17,12 +17,12 @@ function Copyright() {
 
 const useStyles = makeStyles((theme) => ({
   footer: {
-    backgroundColor: '#006064',
-    color: '#b2dfdb',
+    color: '#000000',
+    backgroundColor: '#D8D8F6',
     padding: theme.spacing(6, 0),
   },
   copyright: {
-    color: '#e0f2f1'
+    
   }
 }))
 

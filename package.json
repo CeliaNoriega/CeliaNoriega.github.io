@@ -1,7 +1,7 @@
 {
   "name": "celianoriega.github.io",
   "version": "0.1.0",
-  "homepage": "https://CeliaNoriega.github.io/react-portfolio",
+  "homepage": "https://CeliaNoriega.github.io/CeliaNoriega.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "emailjs-com": "^2.6.4",
     "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
