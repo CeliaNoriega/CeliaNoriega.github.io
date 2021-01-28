@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Check out My Portfolio Here]() 
+[Check out My Portfolio Here](https://celianoriega.github.io/) 
 
 Technologies used:
 
@@ -10,11 +10,9 @@ This website shows my projects that I have worked on and includes an About Me an
 
 Screenshots:
 
-![image]()
+![image](https://user-images.githubusercontent.com/71470687/106075270-296f1600-60c2-11eb-979d-b55eee0b0c8e.png)
 
-![image]()
-
-![image]()
+![image](https://user-images.githubusercontent.com/71470687/106075311-3ab82280-60c2-11eb-90b9-7f0b03d9437e.png)
 
 MIT License
 
