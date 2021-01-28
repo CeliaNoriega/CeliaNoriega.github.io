@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.js": "/react-portfolio/static/js/main.82f7b082.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.82f7b082.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.4744e4d8.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.4744e4d8.js.map",
-    "static/js/2.f211aec0.chunk.js": "/react-portfolio/static/js/2.f211aec0.chunk.js",
-    "static/js/2.f211aec0.chunk.js.map": "/react-portfolio/static/js/2.f211aec0.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/js/2.f211aec0.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f211aec0.chunk.js.LICENSE.txt"
+    "main.js": "/CeliaNoriega.github.io/static/js/main.acca12f4.chunk.js",
+    "main.js.map": "/CeliaNoriega.github.io/static/js/main.acca12f4.chunk.js.map",
+    "runtime-main.js": "/CeliaNoriega.github.io/static/js/runtime-main.d7d8ddbb.js",
+    "runtime-main.js.map": "/CeliaNoriega.github.io/static/js/runtime-main.d7d8ddbb.js.map",
+    "static/js/2.fd93cf4d.chunk.js": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js",
+    "static/js/2.fd93cf4d.chunk.js.map": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js.map",
+    "index.html": "/CeliaNoriega.github.io/index.html",
+    "static/js/2.fd93cf4d.chunk.js.LICENSE.txt": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js.LICENSE.txt",
+    "static/media/fitnessEdge.9febe711.png": "/CeliaNoriega.github.io/static/media/fitnessEdge.9febe711.png",
+    "static/media/resume.05690188.pdf": "/CeliaNoriega.github.io/static/media/resume.05690188.pdf",
+    "static/media/soyTofu.24159f37.png": "/CeliaNoriega.github.io/static/media/soyTofu.24159f37.png",
+    "static/media/travel19.966b29a1.png": "/CeliaNoriega.github.io/static/media/travel19.966b29a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4744e4d8.js",
-    "static/js/2.f211aec0.chunk.js",
-    "static/js/main.82f7b082.chunk.js"
+    "static/js/runtime-main.d7d8ddbb.js",
+    "static/js/2.fd93cf4d.chunk.js",
+    "static/js/main.acca12f4.chunk.js"
   ]
 }
