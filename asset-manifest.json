@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/CeliaNoriega.github.io/static/js/main.acca12f4.chunk.js",
-    "main.js.map": "/CeliaNoriega.github.io/static/js/main.acca12f4.chunk.js.map",
-    "runtime-main.js": "/CeliaNoriega.github.io/static/js/runtime-main.d7d8ddbb.js",
-    "runtime-main.js.map": "/CeliaNoriega.github.io/static/js/runtime-main.d7d8ddbb.js.map",
-    "static/js/2.fd93cf4d.chunk.js": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js",
-    "static/js/2.fd93cf4d.chunk.js.map": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js.map",
-    "index.html": "/CeliaNoriega.github.io/index.html",
-    "static/js/2.fd93cf4d.chunk.js.LICENSE.txt": "/CeliaNoriega.github.io/static/js/2.fd93cf4d.chunk.js.LICENSE.txt",
-    "static/media/fitnessEdge.9febe711.png": "/CeliaNoriega.github.io/static/media/fitnessEdge.9febe711.png",
-    "static/media/resume.05690188.pdf": "/CeliaNoriega.github.io/static/media/resume.05690188.pdf",
-    "static/media/soyTofu.24159f37.png": "/CeliaNoriega.github.io/static/media/soyTofu.24159f37.png",
-    "static/media/travel19.966b29a1.png": "/CeliaNoriega.github.io/static/media/travel19.966b29a1.png"
+    "main.js": "/static/js/main.acca12f4.chunk.js",
+    "main.js.map": "/static/js/main.acca12f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3699d86a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3699d86a.js.map",
+    "static/js/2.fd93cf4d.chunk.js": "/static/js/2.fd93cf4d.chunk.js",
+    "static/js/2.fd93cf4d.chunk.js.map": "/static/js/2.fd93cf4d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fd93cf4d.chunk.js.LICENSE.txt": "/static/js/2.fd93cf4d.chunk.js.LICENSE.txt",
+    "static/media/fitnessEdge.9febe711.png": "/static/media/fitnessEdge.9febe711.png",
+    "static/media/resume.05690188.pdf": "/static/media/resume.05690188.pdf",
+    "static/media/soyTofu.24159f37.png": "/static/media/soyTofu.24159f37.png",
+    "static/media/travel19.966b29a1.png": "/static/media/travel19.966b29a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7d8ddbb.js",
+    "static/js/runtime-main.3699d86a.js",
     "static/js/2.fd93cf4d.chunk.js",
     "static/js/main.acca12f4.chunk.js"
   ]
