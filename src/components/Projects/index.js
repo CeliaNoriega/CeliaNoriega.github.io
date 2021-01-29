@@ -27,7 +27,7 @@ export default function Album() {
             <Project
              name="Soy Tofu"
              image={soyTofu}
-          desc="A fully functioning restaurant page with admin user authentication and online ordering."
+          desc="(Work in progress) A restaurant page with admin user authentication and online ordering."
              view="https://soy-tofu-ca.herokuapp.com/"
              repo="https://github.com/nickdmrco/Soy_Tofu">
             </Project>
