@@ -7,32 +7,35 @@ import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import { ScrollingProvider, Section } from 'react-scroll-section';
 
 const useStyles = makeStyles({
   root: {
     backgroundColor: '#111618',
     color: '#b2dfdb'
   },
-});
-
-const sections = [
-  { title: 'About', url: '/' },
-  { title: 'Portfolio', url: '/' },
-  { title: 'Contact', url: '/' }
-]
+})
 
 const App = () => {
   const classes = useStyles()
   return (
-    <div  className={classes.root}>
-      <CssBaseline />
-      <Container maxWidth="lg">
-        <Header sections={sections} />
-          <About />
-          <Projects />
-          <Contact />
-      </Container>
-      <Footer />
+    <div className={classes.root}>
+      <ScrollingProvider>
+        <CssBaseline />
+        <Header />
+        <Container maxWidth="lg">
+          <Section id="about">
+            <About />
+          </Section>
+          <Section id="portfolio">
+            <Projects />
+          </Section>
+          <Section id="contact">
+            <Contact />
+          </Section>
+        </Container>
+        <Footer />
+      </ScrollingProvider>
     </div>
   )
 }

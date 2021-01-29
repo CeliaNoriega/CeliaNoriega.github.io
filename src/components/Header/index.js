@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { makeStyles } from '@material-ui/core/styles'
 import Toolbar from '@material-ui/core/Toolbar'
 import Link from '@material-ui/core/Link'
+import { useScrollSection } from 'react-scroll-section'
 
 const useStyles = makeStyles((theme) => ({
 
@@ -19,25 +20,34 @@ const useStyles = makeStyles((theme) => ({
   },
 }))
 
+
 export default function Header(props) {
   const classes = useStyles()
-  const { sections } = props;
+  const aboutSection = useScrollSection('about')
+  const portfolioSection = useScrollSection('portfolio')
+  const contactSection = useScrollSection('contact')
 
   return (
     <React.Fragment>
-      <Toolbar component="nav" variant="dense" className={classes.toolbar}>
-        {sections.map((section) => (
+      <Toolbar className={classes.toolbar}>
           <Link
-            color="inherit"
-            noWrap
-            key={section.title}
-            variant="body2"
-            href={section.url}
+          onClick={aboutSection.onClick} selected={aboutSection.selected}
             className={classes.toolbarLink}
           >
-            {section.title}
+            About
           </Link>
-        ))}
+        <Link
+          onClick={portfolioSection.onClick} selected={portfolioSection.selected}
+          className={classes.toolbarLink}
+        >
+          Portfolio
+          </Link>
+        <Link
+          onClick={contactSection.onClick} selected={contactSection.selected}
+          className={classes.toolbarLink}
+        >
+          Contact
+          </Link>
       </Toolbar>
     </React.Fragment>
   )
