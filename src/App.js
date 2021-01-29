@@ -16,9 +16,9 @@ const useStyles = makeStyles({
 });
 
 const sections = [
-  { title: 'About', url: '#about' },
-  { title: 'Portfolio', url: '#portfolio' },
-  { title: 'Contact', url: '#contact' }
+  { title: 'About', url: '/' },
+  { title: 'Portfolio', url: '/' },
+  { title: 'Contact', url: '/' }
 ]
 
 const App = () => {
