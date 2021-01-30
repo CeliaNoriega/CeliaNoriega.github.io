@@ -17,6 +17,7 @@ const useStyles = makeStyles((theme) => ({
   toolbarLink: {
     padding: theme.spacing(1),
     flexShrink: 0,
+    color: '#000000',
   },
 }))
 
