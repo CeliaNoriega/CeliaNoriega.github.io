@@ -42,7 +42,7 @@ export default function MainFeaturedPost(props) {
                 Welcome to my portfolio.
               </p>
               <p>
-                My name is Celia and I’m a full-stack software developer from UCI. I come from a strong background in customer service and was looking for something challenging that would point me in a new direction. One of my favorite pastimes apart from coding is singing and playing the piano.
+                Front end web developer utilizing my background in customer service to build a more user friendly experience on the web. Earned a certificate in Full Stack Web Development from the University of California, Irvine. Flexible and motivated team member with strong communication skills and a focus on mobile-first design and development.
               </p>
             </Typography>
           </div>
