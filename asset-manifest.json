@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.acca12f4.chunk.js",
-    "main.js.map": "/static/js/main.acca12f4.chunk.js.map",
+    "main.js": "/static/js/main.32eb4919.chunk.js",
+    "main.js.map": "/static/js/main.32eb4919.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3699d86a.js",
     "runtime-main.js.map": "/static/js/runtime-main.3699d86a.js.map",
-    "static/js/2.fd93cf4d.chunk.js": "/static/js/2.fd93cf4d.chunk.js",
-    "static/js/2.fd93cf4d.chunk.js.map": "/static/js/2.fd93cf4d.chunk.js.map",
+    "static/js/2.aae78f7f.chunk.js": "/static/js/2.aae78f7f.chunk.js",
+    "static/js/2.aae78f7f.chunk.js.map": "/static/js/2.aae78f7f.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.fd93cf4d.chunk.js.LICENSE.txt": "/static/js/2.fd93cf4d.chunk.js.LICENSE.txt",
+    "static/js/2.aae78f7f.chunk.js.LICENSE.txt": "/static/js/2.aae78f7f.chunk.js.LICENSE.txt",
     "static/media/fitnessEdge.9febe711.png": "/static/media/fitnessEdge.9febe711.png",
-    "static/media/resume.05690188.pdf": "/static/media/resume.05690188.pdf",
+    "static/media/resume.d83a8113.pdf": "/static/media/resume.d83a8113.pdf",
     "static/media/soyTofu.24159f37.png": "/static/media/soyTofu.24159f37.png",
     "static/media/travel19.966b29a1.png": "/static/media/travel19.966b29a1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3699d86a.js",
-    "static/js/2.fd93cf4d.chunk.js",
-    "static/js/main.acca12f4.chunk.js"
+    "static/js/2.aae78f7f.chunk.js",
+    "static/js/main.32eb4919.chunk.js"
   ]
 }
