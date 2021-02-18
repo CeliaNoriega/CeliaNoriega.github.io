@@ -94,7 +94,7 @@ export default function Contact() {
         <CButton
           icon={<LinkedInIcon />}
           label="LinkedIn"
-          link="https://www.linkedin.com/in/celia-noriega-0b30611b9/"
+          link="https://www.linkedin.com/in/celianoriega/"
         >
         </CButton>
         <CButton
