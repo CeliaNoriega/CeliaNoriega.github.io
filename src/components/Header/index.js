@@ -31,7 +31,6 @@ export default function Header(props) {
   // const contactSection = useScrollSection('contact')
 
   return (
-    <React.Fragment>
       <Toolbar className={classes.toolbar}>
           {/* <Link
           onClick={aboutSection.onClick} selected={aboutSection.selected}
@@ -52,7 +51,6 @@ export default function Header(props) {
           Contact
           </Link> */}
       </Toolbar>
-    </React.Fragment>
   )
 }
 
