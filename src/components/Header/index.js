@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: 'space-between',
     overflowX: 'auto',
     color: '#000000',
-    backgroundColor: '#D8D8F6',
+    // backgroundColor: '#D8D8F6',
   },
   toolbarLink: {
     padding: theme.spacing(1),
