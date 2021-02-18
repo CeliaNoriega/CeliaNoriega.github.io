@@ -22,7 +22,7 @@ const App = () => {
     <div className={classes.root}>
       <ScrollingProvider>
         <CssBaseline />
-        <Header />
+        {/* <Header /> */}
         <Container maxWidth="lg">
           <Section id="about">
             <About />
