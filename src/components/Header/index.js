@@ -2,10 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { makeStyles } from '@material-ui/core/styles'
 import Toolbar from '@material-ui/core/Toolbar'
-// import Link from '@material-ui/core/Link'
-// import { useScrollSection } from 'react-scroll-section'
+import Link from '@material-ui/core/Link'
+import { useScrollSection } from 'react-scroll-section'
 
-// react-scoll doesnt work on gh-pages. removing header navbar for now
+
 
 const useStyles = makeStyles((theme) => ({
 
@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: 'space-between',
     overflowX: 'auto',
     color: '#000000',
-    // backgroundColor: '#D8D8F6',
+    backgroundColor: '#D8D8F6',
   },
   toolbarLink: {
     padding: theme.spacing(1),
@@ -26,13 +26,13 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Header(props) {
   const classes = useStyles()
-  // const aboutSection = useScrollSection('about')
-  // const portfolioSection = useScrollSection('portfolio')
-  // const contactSection = useScrollSection('contact')
+  const aboutSection = useScrollSection('about')
+  const portfolioSection = useScrollSection('portfolio')
+  const contactSection = useScrollSection('contact')
 
   return (
       <Toolbar className={classes.toolbar}>
-          {/* <Link
+          <Link
           onClick={aboutSection.onClick} selected={aboutSection.selected}
             className={classes.toolbarLink}
           >
@@ -49,7 +49,7 @@ export default function Header(props) {
           className={classes.toolbarLink}
         >
           Contact
-          </Link> */}
+          </Link>
       </Toolbar>
   )
 }
